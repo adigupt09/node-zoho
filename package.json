@@ -8,7 +8,9 @@
   "main": "build/node-zoho",
   "private": false,
   "homepage": "https://github.com/ahmader/node-zoho",
-  "bugs": "https://github.com/ahmader/node-zoho/issues",
+  "bugs": {
+    "url": "https://github.com/ahmader/node-zoho/issues"
+  },
   "license": "MIT",
   "author": "Ahmader <ahmader@amozun.com>",
   "contributors": [

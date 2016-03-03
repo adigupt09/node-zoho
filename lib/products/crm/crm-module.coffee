@@ -243,6 +243,7 @@ class CrmModule extends BaseModule
 
     query = {
       newFormat: 1,
+      duplicateCheck : '2',
       xmlData: @build(records)
     }
     options = {
